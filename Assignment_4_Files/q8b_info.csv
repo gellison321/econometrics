@@ -1,0 +1,5 @@
+,0,1,2,3
+0,Omnibus:,142.834,  Durbin-Watson:     ,   1.718
+1,Prob(Omnibus):, 0.000,  Jarque-Bera (JB):  ,5235.984
+2,Skew:, 2.758,  Prob(JB):          ,    0.00
+3,Kurtosis:,30.300,  Cond. No.          ,    33.2

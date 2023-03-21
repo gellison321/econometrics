@@ -1,0 +1,10 @@
+,0,1,2,3
+0,Dep. Variable:,rate,  R-squared:         ,   0.979
+1,Model:,OLS,  Adj. R-squared:    ,   0.974
+2,Method:,Least Squares,  F-statistic:       ,   190.4
+3,Date:,"Mon, 20 Mar 2023",  Prob (F-statistic):,1.17e-93
+4,Time:,18:26:04,  Log-Likelihood:    ,  388.34
+5,No. Observations:,   162,  AIC:               ,  -710.7
+6,Df Residuals:,   129,  BIC:               ,  -608.8
+7,Df Model:,    32,                     , 
+8,Covariance Type:,nonrobust,                     , 
