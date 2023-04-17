@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6
+0,,coef,std err,t,P>|t|,[0.025,0.975]
+1,Intercept,    0.7729,    0.033,   23.309, 0.000,    0.708,    0.838
+2,participation[T.Got a transfer],    0.0766,    0.044,    1.734, 0.083,   -0.010,    0.163
+3,income_centered,  -10.3383,    5.538,   -1.867, 0.062,  -21.208,    0.531
+4,income_centered:participation[T.Got a transfer],   12.2723,    7.561,    1.623, 0.105,   -2.566,   27.111
