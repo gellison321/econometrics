@@ -6,5 +6,5 @@
 ## Topics
 
 Regression Disconinuity\
-Differences in Differences\  
+Differences in Differences\
 Fixed Effects\
