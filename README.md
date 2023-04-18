@@ -5,4 +5,6 @@
 
 ## Topics
 
-Regression Disconinuity  Differences in Differences  Fixed Effects
+Regression Disconinuity\
+Differences in Differences\  
+Fixed Effects\
